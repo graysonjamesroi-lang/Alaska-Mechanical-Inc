@@ -1,0 +1,6 @@
+{
+  "name": "Alaska Mechanical Inc",
+  "description": "Alaska Mechanical Inc – Premier mechanical contractor in Anchorage, AK offering commercial, industrial, and residential plumbing, heating, piping, and HVAC solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
